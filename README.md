@@ -1,4 +1,4 @@
-# Python Programming Practice
+# Python Programming and Practice
 
 A collection of Python programs and exercises completed while learning Python programming fundamentals.
 
